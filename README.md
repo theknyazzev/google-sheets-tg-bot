@@ -197,7 +197,7 @@ If you have questions or suggestions:
 
 - 🐛 [Create an Issue](https://github.com/theknyazzev/google-sheets-tg-bot/issues)
       - 💬 [Discussions](https://github.com/theknyazzev/google-sheets-tg-bot/discussions)
-- 📧 Email: your.email@example.com
+- 📧 Email: theknyazzev@gmail.com
 
 ## 📈 Stats
 
